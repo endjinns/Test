@@ -50,5 +50,5 @@ var MemoryStore = function(successCallback, errorCallback) {
         ];
 
     callLater(successCallback);
-
+  
 }
